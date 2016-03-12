@@ -1,0 +1,62 @@
+header {
+  background-image: url("https://images.unsplash.com/photo-1445346366695-5bf62de05412?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=462f409823f1a983e176ccbf46ebefa8");
+  background-repeat: no-repeat;
+  margin: -20px 0 0 -10px;
+  width: 100%;
+  position: relative;
+  background-size: cover;
+  padding: 1.5rem 1.5em;
+} 
+
+header h1 {
+  font-size: 6em;
+  text-align: center;
+  color: brown;
+}
+
+section h1 {
+  font-size: 2em;
+  text-align: center;
+}
+
+section h3 {
+  color: Brown;
+  padding-left: 400px;
+  padding-right: 300px;
+}
+
+section p {
+  padding-left: 400px;
+  padding-right: 300px;
+}
+
+footer {
+  background-color: brown;
+  background-size: cover;
+  width: 100%;
+  color: white;
+  min-height: 150px;
+  padding: 1.5em 1.5em;
+  float: left;
+}
+
+footer h2 {
+  text-align: center;
+}
+
+footer ul li {
+  padding-left: 250px;
+  font-weight: bold;
+  float: left;  
+  display: inline;
+}
+
+footer a {
+  color: yellow;
+  text-decoration: none;
+}
+
+footer p {
+  text-align: center;
+  font-weight: bold;
+}
